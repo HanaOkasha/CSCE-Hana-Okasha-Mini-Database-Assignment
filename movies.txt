@@ -1,0 +1,321 @@
+# id|title|director|genre|year|rating
+101|The Shawshank Redemption|Frank Darabont|Drama|1994|9.3
+102|The Godfather|Francis Ford Coppola|Crime|1972|9.2
+103|The Dark Knight|Christopher Nolan|Action|2008|9.0
+104|The Godfather Part II|Francis Ford Coppola|Crime|1974|9.0
+105|12 Angry Men|Sidney Lumet|Drama|1957|9.0
+106|Schindler's List|Steven Spielberg|Biography|1993|9.0
+107|The Lord of the Rings: The Return of the King|Peter Jackson|Adventure|2003|9.0
+108|Pulp Fiction|Quentin Tarantino|Crime|1994|8.9
+109|The Lord of the Rings: The Fellowship of the Ring|Peter Jackson|Adventure|2001|8.9
+110|The Good, the Bad and the Ugly|Sergio Leone|Western|1966|8.8
+111|Forrest Gump|Robert Zemeckis|Drama|1994|8.8
+112|Fight Club|David Fincher|Drama|1999|8.8
+113|The Lord of the Rings: The Two Towers|Peter Jackson|Adventure|2002|8.8
+114|Inception|Christopher Nolan|Sci-Fi|2010|8.8
+115|Star Wars: Episode V - The Empire Strikes Back|Irvin Kershner|Sci-Fi|1980|8.7
+116|The Matrix|Lana Wachowski|Sci-Fi|1999|8.7
+117|Goodfellas|Martin Scorsese|Crime|1990|8.7
+118|One Flew Over the Cuckoo's Nest|Milos Forman|Drama|1975|8.7
+119|Se7en|David Fincher|Crime|1995|8.6
+120|It's a Wonderful Life|Frank Capra|Drama|1946|8.6
+121|Seven Samurai|Akira Kurosawa|Action|1954|8.6
+122|The Silence of the Lambs|Jonathan Demme|Thriller|1991|8.6
+123|Saving Private Ryan|Steven Spielberg|War|1998|8.6
+124|City of God|Fernando Meirelles|Crime|2002|8.6
+125|Interstellar|Christopher Nolan|Sci-Fi|2014|8.7
+126|Life Is Beautiful|Roberto Benigni|Comedy|1997|8.6
+127|The Green Mile|Frank Darabont|Drama|1999|8.6
+128|Star Wars: Episode IV - A New Hope|George Lucas|Sci-Fi|1977|8.6
+129|Terminator 2: Judgment Day|James Cameron|Sci-Fi|1991|8.6
+130|Back to the Future|Robert Zemeckis|Sci-Fi|1985|8.5
+131|Spirited Away|Hayao Miyazaki|Animation|2001|8.6
+132|The Pianist|Roman Polanski|Biography|2002|8.5
+133|Psycho|Alfred Hitchcock|Horror|1960|8.5
+134|Parasite|Bong Joon Ho|Thriller|2019|8.5
+135|Leon: The Professional|Luc Besson|Action|1994|8.5
+136|The Lion King|Roger Allers|Animation|1994|8.5
+137|Gladiator|Ridley Scott|Action|2000|8.5
+138|American History X|Tony Kaye|Drama|1998|8.5
+139|The Departed|Martin Scorsese|Crime|2006|8.5
+140|Whiplash|Damien Chazelle|Drama|2014|8.5
+141|The Prestige|Christopher Nolan|Mystery|2006|8.5
+142|The Usual Suspects|Bryan Singer|Crime|1995|8.5
+143|Casablanca|Michael Curtiz|Romance|1942|8.5
+144|Grave of the Fireflies|Isao Takahata|Animation|1988|8.5
+145|Harakiri|Masaki Kobayashi|Action|1962|8.6
+146|The Intouchables|Olivier Nakache|Comedy|2011|8.5
+147|Modern Times|Charlie Chaplin|Comedy|1936|8.5
+148|Cinema Paradiso|Giuseppe Tornatore|Drama|1988|8.5
+149|Rear Window|Alfred Hitchcock|Mystery|1954|8.5
+150|Alien|Ridley Scott|Sci-Fi|1979|8.5
+151|City Lights|Charlie Chaplin|Comedy|1931|8.5
+152|Apocalypse Now|Francis Ford Coppola|War|1979|8.4
+153|Memento|Christopher Nolan|Mystery|2000|8.4
+154|Django Unchained|Quentin Tarantino|Western|2012|8.5
+155|Raiders of the Lost Ark|Steven Spielberg|Adventure|1981|8.4
+156|WALL-E|Andrew Stanton|Animation|2008|8.4
+157|The Lives of Others|Florian Henckel|Drama|2006|8.4
+158|Sunset Boulevard|Billy Wilder|Drama|1950|8.4
+159|Paths of Glory|Stanley Kubrick|War|1957|8.4
+160|The Shining|Stanley Kubrick|Horror|1980|8.4
+161|The Great Dictator|Charlie Chaplin|Comedy|1940|8.4
+162|Avengers: Infinity War|Anthony Russo|Action|2018|8.4
+163|Witness for the Prosecution|Billy Wilder|Crime|1957|8.4
+164|Aliens|James Cameron|Sci-Fi|1986|8.4
+165|American Beauty|Sam Mendes|Drama|1999|8.3
+166|Spider-Man: Into the Spider-Verse|Bob Persichetti|Animation|2018|8.4
+167|Dr. Strangelove|Stanley Kubrick|Comedy|1964|8.4
+168|The Dark Knight Rises|Christopher Nolan|Action|2012|8.4
+169|Oldboy|Park Chan-wook|Thriller|2003|8.4
+170|Inglourious Basterds|Quentin Tarantino|War|2009|8.4
+171|Amadeus|Milos Forman|Biography|1984|8.4
+172|Coco|Lee Unkrich|Animation|2017|8.4
+173|Toy Story|John Lasseter|Animation|1995|8.3
+174|Braveheart|Mel Gibson|Biography|1995|8.3
+175|Joker|Todd Phillips|Crime|2019|8.4
+176|Das Boot|Wolfgang Petersen|War|1981|8.4
+177|Princess Mononoke|Hayao Miyazaki|Animation|1997|8.3
+178|Avengers: Endgame|Anthony Russo|Action|2019|8.4
+179|Once Upon a Time in America|Sergio Leone|Crime|1984|8.3
+180|Good Will Hunting|Gus Van Sant|Drama|1997|8.3
+181|Your Name|Makoto Shinkai|Animation|2016|8.4
+182|Requiem for a Dream|Darren Aronofsky|Drama|2000|8.3
+183|Singin' in the Rain|Stanley Donen|Comedy|1952|8.3
+184|3 Idiots|Rajkumar Hirani|Comedy|2009|8.4
+185|Toy Story 3|Lee Unkrich|Animation|2010|8.3
+186|High and Low|Akira Kurosawa|Crime|1963|8.4
+187|Capernaum|Nadine Labaki|Drama|2018|8.4
+188|Star Wars: Episode VI - Return of the Jedi|Richard Marquand|Sci-Fi|1983|8.3
+189|Eternal Sunshine of the Spotless Mind|Michel Gondry|Romance|2004|8.3
+190|2001: A Space Odyssey|Stanley Kubrick|Sci-Fi|1968|8.3
+191|Reservoir Dogs|Quentin Tarantino|Crime|1992|8.3
+192|The Hunt|Thomas Vinterberg|Drama|2012|8.3
+193|Citizen Kane|Orson Welles|Drama|1941|8.3
+194|M|Fritz Lang|Thriller|1931|8.3
+195|Lawrence of Arabia|David Lean|Adventure|1962|8.3
+196|North by Northwest|Alfred Hitchcock|Thriller|1959|8.3
+197|Vertigo|Alfred Hitchcock|Mystery|1958|8.3
+198|Amelie|Jean-Pierre Jeunet|Comedy|2001|8.3
+199|A Clockwork Orange|Stanley Kubrick|Sci-Fi|1971|8.3
+200|Double Indemnity|Billy Wilder|Crime|1944|8.3
+201|Full Metal Jacket|Stanley Kubrick|War|1987|8.3
+202|Scarface|Brian De Palma|Crime|1983|8.3
+203|Incendies|Denis Villeneuve|Drama|2010|8.3
+204|Heat|Michael Mann|Crime|1995|8.3
+205|Up|Pete Docter|Animation|2009|8.3
+206|To Kill a Mockingbird|Robert Mulligan|Drama|1962|8.3
+207|The Sting|George Roy Hill|Comedy|1973|8.3
+208|A Separation|Asghar Farhadi|Drama|2011|8.3
+209|Metropolis|Fritz Lang|Sci-Fi|1927|8.3
+210|Die Hard|John McTiernan|Action|1988|8.2
+211|L.A. Confidential|Curtis Hanson|Crime|1997|8.2
+212|Taxi Driver|Martin Scorsese|Crime|1976|8.2
+213|Indiana Jones and the Last Crusade|Steven Spielberg|Adventure|1989|8.2
+214|Bicycle Thieves|Vittorio De Sica|Drama|1948|8.3
+215|1917|Sam Mendes|War|2019|8.2
+216|Like Stars on Earth|Aamir Khan|Drama|2007|8.3
+217|Downfall|Oliver Hirschbiegel|Biography|2004|8.2
+218|For a Few Dollars More|Sergio Leone|Western|1965|8.2
+219|Batman Begins|Christopher Nolan|Action|2005|8.2
+220|Dangal|Nitesh Tiwari|Biography|2016|8.3
+221|The Kid|Charlie Chaplin|Comedy|1921|8.2
+222|Some Like It Hot|Billy Wilder|Comedy|1959|8.2
+223|The Father|Florian Zeller|Drama|2020|8.2
+224|All About Eve|Joseph L. Mankiewicz|Drama|1950|8.2
+225|The Wolf of Wall Street|Martin Scorsese|Biography|2013|8.2
+226|Green Book|Peter Farrelly|Biography|2018|8.2
+227|Judgment at Nuremberg|Stanley Kramer|Drama|1961|8.3
+228|Casino|Martin Scorsese|Crime|1995|8.2
+229|Ran|Akira Kurosawa|Action|1985|8.2
+230|Pan's Labyrinth|Guillermo del Toro|Fantasy|2006|8.2
+231|The Truman Show|Peter Weir|Drama|1998|8.2
+232|There Will Be Blood|Paul Thomas Anderson|Drama|2007|8.2
+233|Unforgiven|Clint Eastwood|Western|1992|8.2
+234|The Sixth Sense|M. Night Shyamalan|Mystery|1999|8.2
+235|Shutter Island|Martin Scorsese|Mystery|2010|8.2
+236|A Beautiful Mind|Ron Howard|Biography|2001|8.2
+237|Jurassic Park|Steven Spielberg|Adventure|1993|8.2
+238|Yojimbo|Akira Kurosawa|Action|1961|8.2
+239|The Treasure of the Sierra Madre|John Huston|Adventure|1948|8.2
+240|Monty Python and the Holy Grail|Terry Gilliam|Comedy|1975|8.2
+241|The Great Escape|John Sturges|Adventure|1963|8.2
+242|No Country for Old Men|Ethan Coen|Crime|2007|8.2
+243|Kill Bill: Vol. 1|Quentin Tarantino|Action|2003|8.2
+244|The Thing|John Carpenter|Horror|1982|8.2
+245|Finding Nemo|Andrew Stanton|Animation|2003|8.2
+246|The Elephant Man|David Lynch|Biography|1980|8.2
+247|Chinatown|Roman Polanski|Mystery|1974|8.2
+248|Raging Bull|Martin Scorsese|Biography|1980|8.1
+249|V for Vendetta|James McTeigue|Action|2005|8.2
+250|Gone with the Wind|Victor Fleming|Romance|1939|8.2
+251|Lock, Stock and Two Smoking Barrels|Guy Ritchie|Comedy|1998|8.1
+252|Inside Out|Pete Docter|Animation|2015|8.1
+253|Dial M for Murder|Alfred Hitchcock|Thriller|1954|8.2
+254|The Secret in Their Eyes|Juan Jose Campanella|Drama|2009|8.2
+255|Howl's Moving Castle|Hayao Miyazaki|Animation|2004|8.2
+256|Three Billboards Outside Ebbing, Missouri|Martin McDonagh|Crime|2017|8.1
+257|The Bridge on the River Kwai|David Lean|Adventure|1957|8.1
+258|Trainspotting|Danny Boyle|Drama|1996|8.1
+259|Prisoners|Denis Villeneuve|Thriller|2013|8.1
+260|Warrior|Gavin O'Connor|Action|2011|8.1
+261|Fargo|Joel Coen|Crime|1996|8.1
+262|Gran Torino|Clint Eastwood|Drama|2008|8.1
+263|My Neighbor Totoro|Hayao Miyazaki|Animation|1988|8.1
+264|Catch Me If You Can|Steven Spielberg|Biography|2002|8.1
+265|Million Dollar Baby|Clint Eastwood|Drama|2004|8.1
+266|Children of Heaven|Majid Majidi|Drama|1997|8.2
+267|Blade Runner|Ridley Scott|Sci-Fi|1982|8.1
+268|The Gold Rush|Charlie Chaplin|Adventure|1925|8.1
+269|Before Sunrise|Richard Linklater|Romance|1995|8.1
+270|12 Years a Slave|Steve McQueen|Biography|2013|8.1
+271|Harry Potter and the Deathly Hallows: Part 2|David Yates|Fantasy|2011|8.1
+272|On the Waterfront|Elia Kazan|Crime|1954|8.1
+273|Ben-Hur|William Wyler|Adventure|1959|8.1
+274|Gone Girl|David Fincher|Thriller|2014|8.1
+275|The Grand Budapest Hotel|Wes Anderson|Comedy|2014|8.1
+276|Wild Strawberries|Ingmar Bergman|Drama|1957|8.1
+277|The General|Clyde Bruckman|Action|1926|8.1
+278|The Third Man|Carol Reed|Mystery|1949|8.1
+279|In the Name of the Father|Jim Sheridan|Biography|1993|8.1
+280|The Deer Hunter|Michael Cimino|Drama|1978|8.1
+281|Barry Lyndon|Stanley Kubrick|Adventure|1975|8.1
+282|Hacksaw Ridge|Mel Gibson|Biography|2016|8.1
+283|The Wages of Fear|Henri-Georges Clouzot|Adventure|1953|8.2
+284|Memories of Murder|Bong Joon Ho|Crime|2003|8.1
+285|Sherlock Jr.|Buster Keaton|Action|1924|8.2
+286|Wild Tales|Damian Szifron|Comedy|2014|8.1
+287|Mr. Smith Goes to Washington|Frank Capra|Drama|1939|8.1
+288|Mad Max: Fury Road|George Miller|Action|2015|8.1
+289|The Seventh Seal|Ingmar Bergman|Drama|1957|8.1
+290|Mary and Max|Adam Elliot|Animation|2009|8.1
+291|Room|Lenny Abrahamson|Drama|2015|8.1
+292|Monsters, Inc.|Pete Docter|Animation|2001|8.1
+293|Jaws|Steven Spielberg|Thriller|1975|8.1
+294|Dead Poets Society|Peter Weir|Drama|1989|8.1
+295|The Big Lebowski|Joel Coen|Comedy|1998|8.1
+296|Tokyo Story|Yasujiro Ozu|Drama|1953|8.1
+297|The Passion of Joan of Arc|Carl Theodor Dreyer|Biography|1928|8.1
+298|Hotel Rwanda|Terry George|Biography|2004|8.1
+299|Ford v Ferrari|James Mangold|Biography|2019|8.1
+300|Rocky|John G. Avildsen|Drama|1976|8.1
+301|Platoon|Oliver Stone|War|1986|8.1
+302|Spotlight|Tom McCarthy|Biography|2015|8.1
+303|Stand by Me|Rob Reiner|Adventure|1986|8.1
+304|The Terminator|James Cameron|Sci-Fi|1984|8.1
+305|Logan|James Mangold|Action|2017|8.1
+306|Rush|Ron Howard|Biography|2013|8.1
+307|Network|Sidney Lumet|Drama|1976|8.1
+308|Into the Wild|Sean Penn|Adventure|2007|8.1
+309|The Wizard of Oz|Victor Fleming|Adventure|1939|8.1
+310|Groundhog Day|Harold Ramis|Comedy|1993|8.0
+311|The Exorcist|William Friedkin|Horror|1973|8.1
+312|The Best Years of Our Lives|William Wyler|Drama|1946|8.1
+313|The Incredibles|Brad Bird|Animation|2004|8.0
+314|To Be or Not to Be|Ernst Lubitsch|Comedy|1942|8.1
+315|La Haine|Mathieu Kassovitz|Crime|1995|8.1
+316|The Battle of Algiers|Gillo Pontecorvo|Drama|1966|8.1
+317|Pirates of the Caribbean: The Curse of the Black Pearl|Gore Verbinski|Adventure|2003|8.1
+318|Grapes of Wrath|John Ford|Drama|1940|8.1
+319|Hachi: A Dog's Tale|Lasse Hallstrom|Drama|2009|8.1
+320|My Father and My Son|Cagan Irmak|Drama|2005|8.2
+321|Amores Perros|Alejandro G. Inarritu|Drama|2000|8.1
+322|Rebecca|Alfred Hitchcock|Mystery|1940|8.1
+323|Cool Hand Luke|Stuart Rosenberg|Crime|1967|8.1
+324|The Handmaiden|Park Chan-wook|Thriller|2016|8.1
+325|The 400 Blows|Francois Truffaut|Crime|1959|8.1
+326|Persona|Ingmar Bergman|Drama|1966|8.1
+327|It Happened One Night|Frank Capra|Comedy|1934|8.1
+328|Life of Brian|Terry Jones|Comedy|1979|8.0
+329|The Sound of Music|Robert Wise|Biography|1965|8.1
+330|Der Untergang|Oliver Hirschbiegel|War|2004|8.2
+331|Dune|Denis Villeneuve|Sci-Fi|2021|8.0
+332|Oppenheimer|Christopher Nolan|Biography|2023|8.3
+333|Spider-Man: Across the Spider-Verse|Joaquim Dos Santos|Animation|2023|8.6
+334|Top Gun: Maverick|Joseph Kosinski|Action|2022|8.2
+335|Everything Everywhere All at Once|Daniel Kwan|Sci-Fi|2022|7.8
+336|The Batman|Matt Reeves|Action|2022|7.8
+337|Arrival|Denis Villeneuve|Sci-Fi|2016|7.9
+338|Blade Runner 2049|Denis Villeneuve|Sci-Fi|2017|8.0
+339|Sicario|Denis Villeneuve|Action|2015|7.7
+340|The Martian|Ridley Scott|Sci-Fi|2015|8.0
+341|Gravity|Alfonso Cuaron|Sci-Fi|2013|7.7
+342|Roma|Alfonso Cuaron|Drama|2018|7.7
+343|Children of Men|Alfonso Cuaron|Sci-Fi|2006|7.9
+344|Her|Spike Jonze|Romance|2013|8.0
+345|Ex Machina|Alex Garland|Sci-Fi|2014|7.7
+346|Get Out|Jordan Peele|Horror|2017|7.8
+347|Knives Out|Rian Johnson|Mystery|2019|7.9
+348|La La Land|Damien Chazelle|Romance|2016|8.0
+349|Birdman|Alejandro G. Inarritu|Comedy|2014|7.7
+350|The Revenant|Alejandro G. Inarritu|Adventure|2015|8.0
+351|Social Network|David Fincher|Biography|2010|7.8
+352|Zodiac|David Fincher|Crime|2007|7.7
+353|Nightcrawler|Dan Gilroy|Thriller|2014|7.8
+354|Drive|Nicolas Winding Refn|Action|2011|7.8
+355|Moonlight|Barry Jenkins|Drama|2016|7.4
+356|Manchester by the Sea|Kenneth Lonergan|Drama|2016|7.8
+357|Dunkirk|Christopher Nolan|War|2017|7.8
+358|Tenet|Christopher Nolan|Sci-Fi|2020|7.3
+359|Avatar|James Cameron|Sci-Fi|2009|7.9
+360|Titanic|James Cameron|Romance|1997|7.9
+361|Casino Royale|Martin Campbell|Action|2006|8.0
+362|Skyfall|Sam Mendes|Action|2012|7.8
+363|The Bourne Ultimatum|Paul Greengrass|Action|2007|8.0
+364|The Bourne Identity|Doug Liman|Action|2002|7.8
+365|District 9|Neill Blomkamp|Sci-Fi|2009|7.9
+366|Edge of Tomorrow|Doug Liman|Sci-Fi|2014|7.9
+367|Looper|Rian Johnson|Sci-Fi|2012|7.4
+368|Inception: The IMAX Experience|Christopher Nolan|Sci-Fi|2010|8.8
+369|The Hateful Eight|Quentin Tarantino|Western|2015|7.8
+370|Once Upon a Time in Hollywood|Quentin Tarantino|Comedy|2019|7.6
+371|Kill Bill: Vol. 2|Quentin Tarantino|Action|2004|8.0
+372|Jackie Brown|Quentin Tarantino|Crime|1997|7.5
+373|True Grit|Ethan Coen|Western|2010|7.6
+374|O Brother, Where Art Thou?|Joel Coen|Comedy|2000|7.7
+375|Inside Llewyn Davis|Joel Coen|Drama|2013|7.4
+376|The Royal Tenenbaums|Wes Anderson|Comedy|2001|7.6
+377|Moonrise Kingdom|Wes Anderson|Romance|2012|7.8
+378|Fantastic Mr. Fox|Wes Anderson|Animation|2009|7.9
+379|Isle of Dogs|Wes Anderson|Animation|2018|7.8
+380|Ratatouille|Brad Bird|Animation|2007|8.1
+381|Soul|Pete Docter|Animation|2020|8.0
+382|Zootopia|Byron Howard|Animation|2016|8.0
+383|Big Hero 6|Don Hall|Animation|2014|7.8
+384|How to Train Your Dragon|Dean DeBlois|Animation|2010|8.1
+385|Kung Fu Panda|Mark Osborne|Animation|2008|7.6
+386|Shrek|Andrew Adamson|Animation|2001|7.9
+387|The Iron Giant|Brad Bird|Animation|1999|8.1
+388|Akira|Katsuhiro Otomo|Animation|1988|8.0
+389|Ghost in the Shell|Mamoru Oshii|Animation|1995|7.9
+390|Princess Kaguya|Isao Takahata|Animation|2013|8.0
+391|Nausicaa of the Valley of the Wind|Hayao Miyazaki|Animation|1984|8.0
+392|Castle in the Sky|Hayao Miyazaki|Animation|1986|8.0
+393|Kiki's Delivery Service|Hayao Miyazaki|Animation|1989|7.8
+394|Porco Rosso|Hayao Miyazaki|Animation|1992|7.7
+395|The Wind Rises|Hayao Miyazaki|Animation|2013|7.8
+396|Millennium Actress|Satoshi Kon|Animation|2001|7.8
+397|Perfect Blue|Satoshi Kon|Animation|1997|8.0
+398|Paprika|Satoshi Kon|Animation|2006|7.7
+399|A Silent Voice|Naoko Yamada|Animation|2016|8.1
+400|Weathering with You|Makoto Shinkai|Animation|2019|7.5
+401|Suzume|Makoto Shinkai|Animation|2022|7.6
+402|The Boy and the Heron|Hayao Miyazaki|Animation|2023|7.5
+403|Anatomy of a Fall|Justine Triet|Thriller|2023|7.7
+404|The Holdovers|Alexander Payne|Comedy|2023|7.9
+405|Past Lives|Celine Song|Romance|2023|7.8
+406|Poor Things|Yorgos Lanthimos|Sci-Fi|2023|7.8
+407|The Zone of Interest|Jonathan Glazer|War|2023|7.4
+408|Killers of the Flower Moon|Martin Scorsese|Crime|2023|7.6
+409|The Irishman|Martin Scorsese|Crime|2019|7.8
+410|Silence|Martin Scorsese|Drama|2016|7.2
+411|Hugo|Martin Scorsese|Adventure|2011|7.5
+412|The Aviator|Martin Scorsese|Biography|2004|7.5
+413|Gangs of New York|Martin Scorsese|Crime|2002|7.5
+414|Munich|Steven Spielberg|Thriller|2005|7.5
+415|Minority Report|Steven Spielberg|Sci-Fi|2002|7.6
+416|A.I. Artificial Intelligence|Steven Spielberg|Sci-Fi|2001|7.2
+417|Close Encounters of the Third Kind|Steven Spielberg|Sci-Fi|1977|7.6
+418|E.T. the Extra-Terrestrial|Steven Spielberg|Sci-Fi|1982|7.9
+419|The Fabelmans|Steven Spielberg|Drama|2022|7.5
+420|Dune: Part Two|Denis Villeneuve|Sci-Fi|2024|8.5

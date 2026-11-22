@@ -1,0 +1,82 @@
+
+# Sample Command File for Mini Database (Demonstrates F2 - F8 & Benchmarking)
+
+
+# 1. Display help menu
+HELP
+
+# 2. Show initial records
+SHOW 5
+
+# 3. Query WITHOUT any indexes (demonstrates Full Table Scan fallback)
+FIND genre = "Sci-Fi"
+
+# 4. Range query WITHOUT an AVL index (demonstrates Full Table Scan fallback)
+RANGE rating 9.0 9.3
+
+# 5. Create 5 simultaneous indexes (exceeds minimum requirement of 3 indexes in F6)
+CREATE_INDEX HASH genre
+CREATE_INDEX HASH director
+CREATE_INDEX AVL rating
+CREATE_INDEX AVL year
+CREATE_INDEX AVL genre
+
+# 6. List all active indexes and inspect AVL tree statistics & ASCII tree structure
+INDEXES
+INSPECT_INDEX AVL rating
+INSPECT_INDEX AVL genre
+
+# 7. Exact-match query USING Hash Index
+FIND genre = "Sci-Fi"
+
+# 8. Exact-match query USING Hash Index on director
+FIND director = "Christopher Nolan"
+
+# 9. Range query USING AVL Index
+RANGE rating 9.0 9.3
+
+# 10. Sorted traversal USING AVL Index (Descending and Ascending)
+SORT rating DESC
+SORT year ASC
+
+# 11. Minimum and Maximum lookups USING AVL Index
+MIN year
+MAX rating
+
+# 12. Top-K and Bottom-K queries USING AVL Index
+TOP 5 rating
+BOTTOM 5 year
+
+# 13. Compound two-field query (uses Hash index on genre + filter on year)
+AND genre = "Crime" year >= 1990
+
+# 14. Aggregation query (Count and Average rating for a director)
+STATS rating WHERE director = "Christopher Nolan"
+
+# 15. Record Management (F2): Add a new record and verify indexes update automatically
+ADD 999 "Inside Out 2" "Kelsey Mann" "Animation" 2024 9.5
+MAX rating
+
+# 16. Record Management (F2): Update the record and verify indexes stay consistent
+UPDATE 999 rating 8.6
+MAX rating
+
+# 17. Record Management (F2): Delete the record and verify indexes stay consistent
+DELETE 999
+FIND title = "Inside Out 2"
+
+# 18. Save dataset back to disk (F2)
+SAVE
+
+# 19. Drop indexes and list remaining indexes (F6)
+DROP_INDEX HASH director
+DROP_INDEX AVL genre
+INDEXES
+
+# 20. Performance Benchmark: Indexed vs. Full Table Scan speed comparison
+BENCHMARK year 1994 1990 2000
+
+# 21. Invalid Command & Error Handling tests (must produce clear errors without crashing)
+FIND unknown_field = "Test"
+ADD 101 "Duplicate ID Test" "Director" "Drama" 2020 7.5
+INVALID_COMMAND_TEST foo bar
